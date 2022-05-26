@@ -1,4 +1,4 @@
-Pharmaceutical Shipment Price Prediction
+**Pharmaceutical Shipment Price Prediction**
 
 To Predict Supply Chain Shipment Pricing based on a drug information available below:
 
@@ -37,7 +37,7 @@ To Predict Supply Chain Shipment Pricing based on a drug information available b
  'Line Item Insurance (USD)'
  
  
- sample prediction data:
+** sample prediction data:**
  
  
  {
